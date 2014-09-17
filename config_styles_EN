@@ -1,0 +1,4 @@
+There are several production configurations for VIM, such as spf, vimrc, amix. spd is very heavy, gorgeous. vimrc is much 
+light-weighted. If offers two mode: __ and __ . As a coder, I prefer vimrc much, 'cause I really do not need so many 
+shortcuts, functions. I am afraid that there must be more bugs is a big system. Unfortunately, when I use vimrc, I found 
+bugs. Perhaps they have it fixed right now. 
