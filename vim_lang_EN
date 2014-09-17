@@ -1,0 +1,2 @@
+The configuration script of VIM is actually a programming language. What is the difference between this configuation script and the one of nginx? What is the difference between a config script and a language? Maybe you are just told that it is a language. So, what is a language? 
+  Obviously, VIM config script has variables, functions. It can express much more meaning than normal key-value config files. 
