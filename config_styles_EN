@@ -1,4 +1,10 @@
-There are several production configurations for VIM, such as spf, vimrc, amix. spd is very heavy, gorgeous. vimrc is much 
-light-weighted. If offers two mode: __ and __ . As a coder, I prefer vimrc much, 'cause I really do not need so many 
+  There are several production configurations for VIM, such as spf,  amix. spd is very heavy, gorgeous. amix is much 
+light-weighted. If offers two versions: Basic and Awesome . As a coder, I prefer vimrc much, 'cause I really do not need so many 
 shortcuts, functions. I am afraid that there must be more bugs is a big system. Unfortunately, when I use vimrc, I found 
-bugs. Perhaps they have it fixed right now. 
+bugs. Perhaps they have it fixed right now.  codervim doest not provide multiple versions, 'cause I design it only for 
+programmers' use. 
+  I will compare these two best VIM configurations and introduce the components of VIM. So there is no need for the readers 
+to read the source code of them. covervim is not meant to replace these configurations. We all have characteristics and 
+purpose. codervim is designed for simple script language editing, like Python/Shell/PHP/Erlang/LISP, it does not support
+strong-typed language like Java/C#/C++(IDE crushes VIM in doing this job). 
+  
