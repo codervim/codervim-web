@@ -16,6 +16,7 @@ memory of your life.
   I think the most charming part of VIM, a simple editor who has a history more than twenty years, contains  advanced
   techniques . Maybe you would think VIM is rather simple, but I have to say it is not that simple.
 
+========================================>
   why should we use VIM(or Emacs)?
   Perhaps some VIM fans would ask why don't use VIM. I would not do that. I think   perhaps there is  something that I know and you 
 don't know. I should talk about it here and let you make the choice. 
@@ -23,11 +24,20 @@ don't know. I should talk about it here and let you make the choice.
   We need to understand what is happening when we write the code.
   We need to make things simple when we are doing simple things.
   
-  Well, it is not easy to talk about feeling things. You can only get it by doing it. 
+  Here are the ansers.
+  1 Well, it is not easy to talk about feeling things. You can only get it by doing it. 
   
-  Many new programmers like IDE much because it offers keywords, identifier high-lighting and key-assistant, especially 
+  2 Many new programmers like IDE much because it offers keywords, identifier high-lighting and key-assistant, especially 
 Java programmers. Many people just like to use powerful tools to prove that themselve are powerful. What can I say about
-it? 
+it? But do you really know how to high-light keyword, identifiers? Do you really know how a Java IDE could give suggestions when
+you need call an object's method and it could never be possible in VIM? Do these functions has anything to do with compiler
+techniques? Does regular research easy to implement for VIM? 
+ 
+  3 Some people would argue that VIM is just a text editor. It is rather simple that it is not enough for a programmer.
+But if you check VIM with "man vim", you will get the following line at first glance: 
+  "vim - Vi IMproved, a programmers text editor"
+ 
+ <======================================== 
 
  The last question: who we are?
  We are nobody. We are just like you. A man who was young, who has his own stupid days, who has doubt, who has disappointment,
