@@ -1,0 +1,4 @@
+  I will talk about sth. about regular language and its application in VIM. 
+
+  We used to say "regular expression", not "regular language", because we seldom realized that the there is a language called 
+"regular language". Let us go back to review the previous article" ***", what is a language?
