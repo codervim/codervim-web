@@ -11,7 +11,7 @@ $(function() {
 	var n = parseInt( $("#order").text() ) ;
 	n = n + 1;	
 	$.get("/en/" + enList[n], function(data) {
-		$("#article").html(data):
+		$("#article").html(data);
 		});
 	$("#order").text( n );
     });
