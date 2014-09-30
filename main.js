@@ -3,14 +3,16 @@ $(function() {
 
     var n = parseInt( $("#order").text() ) ;
     if (1 == n) {
-	$("#article").append( $.get("/en/" + enList[n] ) );	
+	 $.get("/en/" + enList[n] , function(data) {
+		 $("#article").append( data);
+		} );	
 	}
     $("#right_arrow").click(function() {
 	var n = parseInt( $("#order").text() ) ;
 	n = n + 1;	
-	 var newTxt = $.get("/en/" + enList[n] ).responseText;
-alert(newTxt);
-	$("#article").append( newTxt);	
+	$.get("/en/" + enList[n], function(data) {
+		$("#article").html(data):
+		});
 	$("#order").text( n );
     });
 
