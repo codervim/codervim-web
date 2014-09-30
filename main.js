@@ -8,7 +8,7 @@ $(function() {
     $("#right_arrow").click(function() {
 	var n = parseInt( $("#order").text() ) ;
 	n = n + 1;	
-	 var newTxt = $.get("/en/" + enList[n] ).text();
+	 var newTxt = $.get("/en/" + enList[n] ).html();
 alert(newTxt);
 	$("#article").append( newTxt);	
 	$("#order").text( n );
