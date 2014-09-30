@@ -1,9 +1,15 @@
 $(function() {
     a = enList;
     alert("jquery ready");
-    $("#right_arrow").click(function() {
+
 	var n = parseInt( $("#order").text() ) + 1;
-	$("#article").text( $.get("/en/" + enList[n] ) );	
+if (1 == n) {
+	$("#article").insert( $.get("/en/" + enList[n] ) );	
+}
+    $("#right_arrow").click(function() {
+	var n = parseInt( $("#order").text() ) ;
+	n = n + 1;	
+	$("#article").insert( $.get("/en/" + enList[n] ) );	
 	$("#order").text( n );
     });
 
