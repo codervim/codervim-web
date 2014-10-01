@@ -3,23 +3,23 @@
     codervim is just a simple vim config bundles. It is designed for programmers. At the early years of programmers' 
 career, theywould call themselves coder( or just we Chinese call it). I use this name for a simple reason that I want
 to tell every freshmanin this field should not fear the future. Just fight for the dream you've ever have. 
-  And codervim is also a website. A series of articles that try to analysis the famous editor VIM to the new programmers.
-Although there are many powerful tools like Eclipse, IntelliJ, XCode and so on, I still think that everybody should use vim(or emacs)
-for small code. Of course, I do not support replacing IDE with VIM and as if VIM was something great, sth that could prove 
-you are a professional programmer. In fact, I think, if a Java programmer use VIM/Emacs to code, this action is defintely
-not smart. 
-  So, why would I call it codervim, not programmervim. First, programmervim is too long. Second, I want to tell you that 
-when you do not think yourself are a coder any more, you are upgraded, you are evolved.   I think, at that time, you
-would also do not care whether you are using VIM or Emacs, or IDE. I think, at that time, you would probably have know the
-essence of these tools. You are not proud of using any of them. The days you explored the tools, eidtors, would be a precious
-memory of your life. 
+    And codervim is also a website. A series of articles that try to analysis the famous editor VIM to the new 
+programmers. Although there are many powerful tools like Eclipse, IntelliJ, XCode and so on, I still think that 
+everybody should use vim(or emacs) for small code. Of course, I do not support replacing IDE with VIM and as if VIM 
+was something great, sth that could prove  you are a professional programmer. In fact, I think, if a Java programmer 
+use VIM/Emacs to code, this action is defintely not smart. 
+    So, why would I call it codervim, not programmervim. First, programmervim is too long. Second, I want to tell you 
+that when you do not think yourself are a coder any more, you are upgraded, you are evolved.   I think, at that time, 
+you would also do not care whether you are using VIM or Emacs, or IDE. I think, at that time, you would probably have
+know the essence of these tools. You are not proud of using any of them. The days you explored the tools, eidtors, 
+would be a precious memory of your life. 
   I think the most charming part of VIM, a simple editor who has a history more than twenty years, contains  advanced
-  techniques . Maybe you would think VIM is rather simple, but I have to say it is not that simple.
+techniques . Maybe you would think VIM is rather simple, but I have to say it is not that simple.
 
 ========================================>
   why should we use VIM(or Emacs)?
-  Perhaps some VIM fans would ask why don't use VIM. I would not do that. I think   perhaps there is  something that I know and you 
-don't know. I should talk about it here and let you make the choice. 
+  Perhaps some VIM fans would ask why don't use VIM. I would not do that. I think   perhaps there is  something that 
+I know and you don't know. I should talk about it here and let you make the choice. 
   We need to find the feeling of writing code.
   We need to understand what is happening when we write the code.
   We need to make things simple when we are doing simple things.
@@ -27,11 +27,11 @@ don't know. I should talk about it here and let you make the choice.
   Here are the ansers.
   1 Well, it is not easy to talk about feeling things. You can only get it by doing it. 
   
-  2 Many new programmers like IDE much because it offers keywords, identifier high-lighting and key-assistant, especially 
-Java programmers. Many people just like to use powerful tools to prove that themselve are powerful. What can I say about
-it? But do you really know how to high-light keyword, identifiers? Do you really know how a Java IDE could give suggestions when
-you need call an object's method and it could never be possible in VIM? Do these functions has anything to do with compiler
-techniques? Does regular research easy to implement for VIM? 
+  2 Many new programmers like IDE much because it offers keywords, identifier high-lighting and key-assistant, 
+especially Java programmers. Many people just like to use powerful tools to prove that themselve are powerful. What 
+can I say about it? But do you really know how to high-light keyword, identifiers? Do you really know how a Java IDE 
+could give suggestions when you need call an object's method and it could never be possible in VIM? Do these functions 
+has anything to do with compiler techniques? Does regular research easy to implement for VIM? 
  
   3 Some people would argue that VIM is just a text editor. It is rather simple that it is not enough for a programmer.
 But if you check VIM with "man vim", you will get the following line at first glance: 
@@ -40,5 +40,5 @@ But if you check VIM with "man vim", you will get the following line at first gl
  <======================================== 
 
  The last question: who we are?
- We are nobody. We are just like you. A man who was young, who has his own stupid days, who has doubt, who has disappointment,
- who has tasted failure, who has done something trivial success. 
+ We are nobody. We are just like you. A man who was young, who has his own stupid days, who has doubt, who has 
+ disappointment, who has tasted failure, who has done something trivial success. 
