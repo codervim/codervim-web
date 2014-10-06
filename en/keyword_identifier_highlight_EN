@@ -1,4 +1,6 @@
   Many programmer would notice that VIM could has the ability to highlight the keywords and identifiers when editing 
-a script of some common programming language. It is beautiful and could help us to have a better view of the code text. Of
-course, keywords and identifiers highlight are the basic function of IDE. So my question is does these two kinds of tools
-use the same way to accomplish the highlighting function? Can you do it by yourself?
+a script of some common programming language files. It is beautiful and could help us to have a better view of the code 
+text. Of course, keywords and identifiers highlight are the basic function of IDE. So my question is does these two 
+kinds of tools use the same way to highlight? If you want to build an IDE, what kind of knowledge is needed to highlight
+keywords and identifiers?
+  
