@@ -1,0 +1,11 @@
+			Plug-in for VIM
+
+  Although all the functions you need for editing code are offered by 
+already plug-ins, you would still hope to build a plug-in by the
+hand of yourself. I think this would help us understand how the plug-in
+and VIM cooperate and how it works. 
+  As we could see, VIM script language is not so powerful as the config
+language elisp of Emacs. So does it really matters? What is a better 
+practice for designing a config language? 
+   Let's first check the code of several example VIM plug-ins. Then we 
+will give a simple conclusion to this topic. 
