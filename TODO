@@ -6,7 +6,6 @@ Articles to be written:
   VIM vs IDE,  why vim(/simple text editors) matters to programmers
   helpful functionalities for VIM users and how to config
   vim arch
-  
   vim config bundles
   keyword & identifier high-ligthed
   regular language in VIM
@@ -21,6 +20,13 @@ Articles to be written:
   amix analysis
   font in VIM
   build plug-in for VIM
+  auto-complete in VIM 
+  integrated with VCS
+  integrated with debugger
+  integrated with file serach plugin
+  split screen 
+  grammer check & err tips 
+  
   
   
   
