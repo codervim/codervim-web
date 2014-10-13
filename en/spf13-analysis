@@ -1,0 +1,30 @@
+   Spf
+
+  Spf declares that it is the best vim config. I am afraid that is true for most
+people. It is truly powerful and beautiful. I suggest everybody should try it.
+This post is going to give a simple and comprehensive analysis of this config. 
+
+dependants on:
+  Vundle  https://github.com/gmarik/Vundle.vim
+  
+spf13-vim bundle configuration : ?
+
+  .vimrc.local > .vimrc 
+
+
+There are many config files. It messes me up at first. Due to these config
+files, you could switch back to the previous config easily. I think there is no need
+to include these files. When you try several configs, you will finally choose
+one and use it for a long time. So I will make it simple. If you install
+codervim. It will backup previous. When you uninstall codervim, it will use the
+previous config. 
+
+   
+  
+
+
+
+
+
+
+git repo: https://github.com/spf13/spf13-vim

@@ -1,0 +1,6 @@
+ 		Common error
+
+  When I use spf13, amix, I came across some errors caused by the config:
+    the line overlaped by the sessioned lines
+    bad bracket close
+    
