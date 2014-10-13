@@ -1,0 +1,4 @@
+	VIM and Grammar Check
+
+  When editing source code, we would find that the VIM could even suggest if
+there are errors in the code. 

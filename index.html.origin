@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/INDEX.js"> </script>
+<script src="/main.js"> </script>
+
+
+<style>
+   #article { 
+	width:800px; 
+	margin-left:15%; 
+	margin-top: 40px;
+	background:;  font-size: 12px;
+	font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
+	white-space: pre;
+ }
+   .jumpbtn { width:40px; height:40px; }
+</style>
+</head>
+
+<body>
+  <div>
+  <div> 
+ 	<span> <span id="order" >1</span>th article! </span>
+  </div>
+	<div  id="article"> <pre > </pre>  </div>
+    
+	<div style="margin-top:50px"> 
+		<img id="left_arrow" src="img/prev.png" class="jumpbtn" style="float:left;margin-left: 15%" /> 
+		<div style="margin-left:45%;">   <a href="index1.html" > index </a>  </div>
+		<img id="right_arrow" src="img/next.jpg" class="jumpbtn" style="float:right;margin-right: 15%"/> 
+	</div>
+
+	<div style="margin-top:50px">
+		<a href="TODO.txt" > TODO </a>
+	</div>
+  </div>
+
+</body>
+
+</html>

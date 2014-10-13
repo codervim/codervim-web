@@ -1,0 +1,5 @@
+	VIM and File Search Plug-in
+
+  It is very convenient to search stings and files in IDE. While, when you use
+IDE, the function is not easily obtained.
+
