@@ -1,8 +1,8 @@
                                What is codervim?
 
-    codervim is just a simple vim config bundles. It is designed for programmers. At the early years of programmers' 
-career, theywould call themselves coder( or just we Chinese call it). I use this name for a simple reason that I want
-to tell every freshmanin this field should not fear the future. Just fight for the dream you've ever have. 
+    codervim is just a simple vim config bundle. It is designed for programmers. At the early years of programmers' 
+career, they would call themselves coder( or just we Chinese call it). I don't care whether the others call me coder or
+not. I only care about what I am doing now and what I can do later. So this is where the name codervim comes from.
     And codervim is also a website. A series of articles that try to analysis the famous editor VIM to the new 
 programmers. Although there are many powerful tools like Eclipse, IntelliJ, XCode and so on, I still think that 
 everybody should use vim(or emacs) for small code. Of course, I do not support replacing IDE with VIM and as if VIM 
