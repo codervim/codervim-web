@@ -1,17 +1,15 @@
 Articles to be written:
 
   what is codervim?
-  history of editors
-  VIM ( History, present, future)
-  VIM vs IDE,  why vim(/simple text editors) matters to programmers
-  helpful functionalities for VIM users and how to config
+  vim and history of editors
+  VIM and IDE,  why vim(/simple text editors) matters to programmers
+  good vim config bundles
   vim arch
-  vim config bundles
+  the VIM config language 
   keyword & identifier high-ligthed
   regular language in VIM
   CFG in VIM 
   The differences between VIM & Emacs ( shared)
-  the config language 
   VIM source code reading  plan and tips
   make VIM simple
   color in VIM
@@ -28,6 +26,7 @@ Articles to be written:
   grammer check & err tips 
   common error caused by vim config
   
+  frq functionalities for VIM users 
   
   
   
