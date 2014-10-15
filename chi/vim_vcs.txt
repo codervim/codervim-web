@@ -1,0 +1,5 @@
+	VIM and VCS
+
+
+  在编辑器里内嵌简单的 Version Control System 的小功能是很实用的，如哪一行发生
+了改动，在什么分支上等
