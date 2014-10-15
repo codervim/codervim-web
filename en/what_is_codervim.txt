@@ -1,6 +1,6 @@
                                What is codervim
 
-    codervim is just a simple vim config bundle. It is designed for programmers. At the early years of programmers' 
+    codervim is not simply a vim config. It is designed for programmers. At the early years of programmers' 
 career, they would call themselves coder( or just we Chinese call it). I don't care whether the others call me coder or
 not. I only care about what I am doing now and what I can do later. So this is
 where the name codervim comes from. 
