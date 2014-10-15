@@ -1,3 +1,0 @@
-        Auto complete
-  
-  Code complete assistant is one basic function of the coding editor tools.
